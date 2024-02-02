@@ -16,3 +16,5 @@ git branch - *команда которая выводит ветки*
 
 branch - *ветка*
 git branch name - *создание ветки*
+
+git log --grath - *команда*
