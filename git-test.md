@@ -15,3 +15,4 @@ git branch - *команда которая выводит ветки*
 ## Lesson 2
 
 branch - *ветка*
+git branch name - *создание ветки*
