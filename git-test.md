@@ -19,3 +19,4 @@ git branch name - *создание ветки*
 
 git log --graph - *выводит список коммитов в виде графа/дерева*
 
+git merge Text_Form - *слияние веток*
